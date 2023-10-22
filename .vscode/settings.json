@@ -1,3 +1,7 @@
 {
-  "github-enterprise.uri": "https://github.com/azuhawk/My-CodeSpace-Code.git"
+  "github-enterprise.uri": "https://github.com/azuhawk/My-CodeSpace-Code.git",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true
 }
