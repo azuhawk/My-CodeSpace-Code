@@ -28,3 +28,8 @@ section {
     padding-left: 100px;
     padding-top: 100px;
 }
+
+label {
+    width: 100px;
+    display: inline-block;
+}
