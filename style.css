@@ -46,7 +46,7 @@ header {
     width: 100%;
     height: 100vh;
     background: url(./Images/hero-img_copy.jpg) no-repeat center / cover;
-    color: red;
+    color: white;
     overflow-y: hidden;
 }
 
